@@ -1,0 +1,23 @@
+{
+  "name": "kc-strmin",
+  "version": "1.0.2",
+  "description": "[js] Simple minify (Remove new lines and multiple spaces).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KaisarCode/js-strmin.git"
+  },
+  "keywords": [
+    "minify",
+    "string"
+  ],
+  "author": "KaisarCode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaisarCode/js-strmin/issues"
+  },
+  "homepage": "https://github.com/KaisarCode/js-strmin",
+  "dependencies": {
+    "fun2mod": "^1.0.5"
+  }
+}
