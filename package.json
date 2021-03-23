@@ -1,6 +1,6 @@
 {
   "name": "kc-strmin",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "[js] Simple minify (Remove new lines and multiple spaces).",
   "main": "index.js",
   "repository": {
