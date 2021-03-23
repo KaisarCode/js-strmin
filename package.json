@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/KaisarCode/js-strmin.git"
+    "url": "https://github.com/kaisarsnippets/js-strmin.git"
   },
   "keywords": [
     "minify",
@@ -14,9 +14,9 @@
   "author": "KaisarCode",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/KaisarCode/js-strmin/issues"
+    "url": "https://github.com/kaisarsnippets/js-strmin/issues"
   },
-  "homepage": "https://github.com/KaisarCode/js-strmin",
+  "homepage": "https://github.com/kaisarsnippets/js-strmin",
   "dependencies": {
     "fun2mod": "^1.0.5"
   }
